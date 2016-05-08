@@ -1,0 +1,54 @@
+// Kem Andrew 
+// File created by C++ BST Project 
+digraph { 
+name[shape = box, label = "Kem Andrew \nBST Project \nSpring 2015"]; 
+nodea[label="a (75)"]
+nodeb[label="b (15)"]
+nodec[label="c (26)"]
+noded[label="d (45)"]
+nodee[label="e (142)"]
+nodef[label="f (18)"]
+nodeg[label="g (31)"]
+nodeh[label="h (63)"]
+nodei[label="i (71)"]
+nodej[label="j (2)"]
+nodek[label="k (16)"]
+nodel[label="l (36)"]
+nodem[label="m (26)"]
+noden[label="n (65)"]
+nodeo[label="o (71)"]
+nodep[label="p (19)"]
+noder[label="r (55)"]
+nodes[label="s (64)"]
+nodet[label="t (95)"]
+nodeu[label="u (22)"]
+nodev[label="v (5)"]
+nodew[label="w (31)"]
+nodex[label="x (4)"]
+nodey[label="y (18)"]
+nodez[label="z (2)"]
+nodet->nodeh
+nodet->nodew
+nodeh->nodee
+nodeh->nodeo
+nodee->nodea
+nodee->nodef
+nodea->noded
+noded->nodec
+nodec->nodeb
+nodef->nodeg
+nodeo->nodel
+nodeo->nodes
+nodel->nodei
+nodel->noden
+nodei->nodej
+nodej->nodek
+noden->nodem
+nodes->noder
+noder->nodep
+nodew->nodeu
+nodew->nodey
+nodeu->nodev
+nodey->nodex
+nodey->nodez
+} 
